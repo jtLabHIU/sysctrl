@@ -8,5 +8,5 @@
 |月曜日| | | |Pルーム/English for Communication<br>（ライアン）| |
 |火曜日|Pルーム/Communication I<br>（ライアン）|Pルーム/English for Communication<br>（ライアン）|江高コンシスI<br>（棚橋）|ゼミナールI<br>（斎藤一/島田）|ゼミナールIII<br>（斎藤一/島田）|
 |水曜日| |IoT技術総論<br>（棚橋）|組込みシステム基礎<br>（棚橋）|| |
-|木曜日| |Pルーム/English for Communication<br>（ライアン）|ゼミナールI<br>（棚橋）|ゼミナールIII<br>（棚橋）|Pルーム/Speaking I<br>（ライアン）|
+|木曜日| |Pルーム/English for Communication<br>（ライアン）|ゼミナールI<br>（棚橋）|ゼミナールIII<br>（棚橋）| |
 |金曜日| | | | | |
